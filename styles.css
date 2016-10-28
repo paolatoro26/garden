@@ -7,17 +7,20 @@ font-family: sans-serif;
 
 
 h1{
-font-family: "Coiny", cursive;
-font-size:50px;
+font-family: 'Indie Flower', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-size:70px;
 color: #212F3C  ;
-margin-left: 50%;
+margin-left: 30%;
 color: #1C2833 ;
+text-align: center;
 }
 
 
 
-div .page-wrapper{margin-left: 100px;
-background: url(images/3.jpg) no-repeat;}
+div .page-wrapper{
+	margin-left: 100px;
+width: 100%;}
 
 
 div .summary {
@@ -30,9 +33,38 @@ font-family: 'Mogra', cursive;
 font-family: 'Marck Script', cursive;
 width: 500px;
 }
-
+a[href="/examples/index"]{font-style: cursive; 
+color: green;}
 
 h2{color: #1C2833 ;
 margin-left:60%;
 
 }
+.preamble{margin-left: 50%;
+
+border-style: dashed; 
+border-width: 4px; 
+border-color:white ;
+font-family: 'Indie Flower', cursive;
+width: 500px
+}
+
+
+.preamble:first-line{font-size: 45px}
+
+div #zen-supporting h3{font-family: 'Indie Flower', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Covered By Your Grace', cursive;
+color: #0489B1}
+
+div #zen-supporting h3:first-line{
+font-size: 40px;}
+div #zen-supporting p:first-letter{color:rgba(68,9,73,0.6);
+font-size: 30px;
+font-family: 'Indie Flower', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Satisfy', cursive;}
+
+div #zen-supporting{margin: 50px;
+border-style: solid 50px}
