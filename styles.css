@@ -1,0 +1,38 @@
+body{
+background:#F5CBA7  ;
+width: 60%;
+font-family: sans-serif;
+
+}
+
+
+h1{
+font-family: "Coiny", cursive;
+font-size:50px;
+color: #212F3C  ;
+margin-left: 50%;
+color: #1C2833 ;
+}
+
+
+
+div .page-wrapper{margin-left: 100px;
+background: url(images/3.jpg) no-repeat;}
+
+
+div .summary {
+	margin-left: 50%;
+border-style: dashed; 
+border-width: 4px; 
+border-color:white ;
+font-family: 'Coiny', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Marck Script', cursive;
+width: 500px;
+}
+
+
+h2{color: #1C2833 ;
+margin-left:60%;
+
+}
