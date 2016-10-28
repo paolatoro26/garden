@@ -1,22 +1,29 @@
 body{
-background:#F5CBA7  ;
-width: 60%;
+background-image:url(../images/3.jpg); 
+width: 40%;
 font-family: sans-serif;
+background-color: #F9E79F;
+}
+header h1{color:green;
 
 }
 
+p img{margin-left:20%;
+padding:10%;
+
+margin-left:10px }
 
 h1{
 font-family: 'Indie Flower', cursive;
 font-family: 'Gloria Hallelujah', cursive;
-font-size:70px;
+font-size:100px;
 color: #212F3C  ;
-margin-left: 30%;
+margin-left: 50%;
 color: #1C2833 ;
 text-align: center;
 }
 
-
+a{text-decoration: none;color:green;}
 
 div .page-wrapper{
 	margin-left: 100px;
@@ -37,7 +44,7 @@ a[href="/examples/index"]{font-style: cursive;
 color: green;}
 
 h2{color: #1C2833 ;
-margin-left:60%;
+margin-left:50%;
 
 }
 .preamble{margin-left: 50%;
@@ -58,8 +65,13 @@ font-family: 'Satisfy', cursive;
 font-family: 'Covered By Your Grace', cursive;
 color: #0489B1}
 
+div #zen-supporting div{
+color:#858690;
+text-align:justify;}
+
 div #zen-supporting h3:first-line{
 font-size: 40px;}
+
 div #zen-supporting p:first-letter{color:rgba(68,9,73,0.6);
 font-size: 30px;
 font-family: 'Indie Flower', cursive;
@@ -67,4 +79,13 @@ font-family: 'Gloria Hallelujah', cursive;
 font-family: 'Satisfy', cursive;}
 
 div #zen-supporting{margin: 50px;
-border-style: solid 50px}
+border-style: solid 50px;
+}
+
+.sidebar h3{font-family: 'Indie Flower', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Satisfy', cursive;}
+
+.sidebar ul li{
+display:inline-block;}
+
